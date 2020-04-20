@@ -10,7 +10,7 @@
     "__IMPORT_DESCRIPTOR_CSRSRV",
     "__IMPORT_DESCRIPTOR_ntdll",
     "__NULL_IMPORT_DESCRIPTOR",
-    "__dynamic_value_reloc_table",
+    "__enclave_config",
     "__guard_check_icall_fptr",
     "__guard_dispatch_icall_fptr",
     "__guard_fids_count",

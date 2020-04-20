@@ -1,9 +1,9 @@
 {
   "symbols": [
-    "??_C@_13FPGAJAPJ@?$AA?2?$AA?$AA@",
-    "??_C@_15BCDOKMG@?$AA?$CJ?$AA?6?$AA?$AA@",
-    "??_C@_15ELPOAHMG@?$AAM?$AAY?$AA?$AA@",
-    "??_C@_1BA@JEMKHOLI@?$AA0?$AAx?$AA?$CF?$AAl?$AAX?$AA?5?$AA?$CI?$AA?$AA@",
+    "??_C@_13FPGAJAPJ@?$AA?2@",
+    "??_C@_15BCDOKMG@?$AA?$CJ?$AA?6@",
+    "??_C@_15ELPOAHMG@?$AAM?$AAY@",
+    "??_C@_1BA@JEMKHOLI@?$AA0?$AAx?$AA?$CF?$AAl?$AAX?$AA?5?$AA?$CI@",
     "?CreateProcessRestricted@@YAHKPEBGPEAG1PEAU_STARTUPINFOW@@PEAU_PROCESS_INFORMATION@@@Z",
     "?CreduiGetCertDisplayNameFromMarshaledName@@YAHPEAG0KH@Z",
     "?CreduiGetCertificateDisplayName@@YAHPEBU_CERT_CONTEXT@@PEAGK1@Z",
@@ -49,7 +49,6 @@
     "__chkstk",
     "__defaultmatherr",
     "__dyn_tls_init_callback",
-    "__dynamic_value_reloc_table",
     "__guard_check_icall_fptr",
     "__guard_dispatch_icall_fptr",
     "__guard_fids_count",

@@ -1,7 +1,7 @@
 {
   "symbols": [
-    "??_C@_15JCPNBDBO@?$AAS?$AAW?$AA?$AA@NNGAKEGL@",
-    "??_C@_1BA@HICHNCPO@?$AAD?$AAe?$AAv?$AAi?$AAc?$AAe?$AAs?$AA?$AA@NNGAKEGL@",
+    "??_C@_15JCPNBDBO@?$AAS?$AAW@",
+    "??_C@_1BA@HICHNCPO@?$AAD?$AAe?$AAv?$AAi?$AAc?$AAe?$AAs@",
     "AddDevice",
     "DispatchClose",
     "DispatchCreate",
@@ -9,6 +9,7 @@
     "DispatchPnP",
     "DispatchPower",
     "DispatchSystemControl",
+    "DriverEntry",
     "DriverUnload",
     "GsDriverEntry",
     "KSMEDIUMSETID_Standard",
@@ -16,7 +17,6 @@
     "__IMPORT_DESCRIPTOR_ks",
     "__IMPORT_DESCRIPTOR_ntoskrnl",
     "__NULL_IMPORT_DESCRIPTOR",
-    "__dynamic_value_reloc_table",
     "__guard_check_icall_fptr",
     "__guard_dispatch_icall_fptr",
     "__guard_fids_count",
@@ -46,6 +46,7 @@
     "__report_gsfailure",
     "__security_check_cookie",
     "__security_cookie",
+    "__security_cookie_complement",
     "__security_init_cookie",
     "_guard_check_icall_nop",
     "_guard_dispatch_icall_nop",

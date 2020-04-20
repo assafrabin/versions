@@ -1,9 +1,9 @@
 {
   "symbols": [
-    "??_C@_07JNIHIFAG@MSDMF3?4?$AA@NNGAKEGL@",
-    "??_C@_0BI@FKHDMBBH@?$CFs?$CI?$CFd?$CJdisk?$CI?$CFd?$CJfdisk?$CI?$CFd?$CJ?$AA@NNGAKEGL@",
-    "??_C@_0P@MCLEONNE@?2ArcName?2multi?$AA@NNGAKEGL@",
-    "??_C@_1CC@BBCBAOHH@?$AA?2?$AAD?$AAe?$AAv?$AAi?$AAc?$AAe?$AA?2?$AAF?$AAl?$AAo?$AAp?$AAp?$AAy?$AA?$CF?$AAd?$AA?$AA@NNGAKEGL@",
+    "??_C@_07JNIHIFAG@MSDMF3?4@",
+    "??_C@_0BI@FKHDMBBH@?$CFs?$CI?$CFd?$CJdisk?$CI?$CFd?$CJfdisk?$CI?$CFd?$CJ@",
+    "??_C@_0P@MCLEONNE@?2ArcName?2multi@",
+    "??_C@_1CC@BBCBAOHH@?$AA?2?$AAD?$AAe?$AAv?$AAi?$AAc?$AAe?$AA?2?$AAF?$AAl?$AAo?$AAp?$AAp?$AAy?$AA?$CF@",
     "DriveMediaConstants",
     "DriveMediaLimits",
     "DriverEntry",
@@ -52,7 +52,6 @@
     "__GSHandlerCheckCommon",
     "__IMPORT_DESCRIPTOR_ntoskrnl",
     "__NULL_IMPORT_DESCRIPTOR",
-    "__dynamic_value_reloc_table",
     "__guard_check_icall_fptr",
     "__guard_dispatch_icall_fptr",
     "__guard_fids_count",
@@ -126,12 +125,14 @@
     "__report_gsfailure",
     "__security_check_cookie",
     "__security_cookie",
+    "__security_cookie_complement",
     "__security_init_cookie",
     "_guard_check_icall_nop",
     "_guard_dispatch_icall_nop",
     "_load_config_used",
     "memcpy",
     "memmove",
+    "memset",
     "\u007fntoskrnl_NULL_THUNK_DATA"
   ],
   "hash": "TODO"

@@ -17,7 +17,6 @@
     "__IMPORT_DESCRIPTOR_msvcrt",
     "__NULL_IMPORT_DESCRIPTOR",
     "__dyn_tls_init_callback",
-    "__dynamic_value_reloc_table",
     "__guard_check_icall_fptr",
     "__guard_dispatch_icall_fptr",
     "__guard_fids_count",

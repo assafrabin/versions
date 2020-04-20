@@ -1,7 +1,7 @@
 {
   "symbols": [
-    "??_C@_06EICIGIN@Quad?57?$AA@NNGAKEGL@",
-    "??_C@_07BEMGDHG@Quad?547?$AA@NNGAKEGL@",
+    "??_C@_06EICIGIN@Quad?57@",
+    "??_C@_07BEMGDHG@Quad?547@",
     "ChangerAdditionalExtensionSize",
     "ChangerError",
     "ChangerExchangeMedium",
@@ -17,6 +17,7 @@
     "ChangerReinitializeUnit",
     "ChangerSetAccess",
     "ChangerSetPosition",
+    "DriverEntry",
     "ElementOutOfRange",
     "ExaBuildAddressMapping",
     "GsDriverEntry",
@@ -26,7 +27,6 @@
     "__IMPORT_DESCRIPTOR_MCD",
     "__IMPORT_DESCRIPTOR_ntoskrnl",
     "__NULL_IMPORT_DESCRIPTOR",
-    "__dynamic_value_reloc_table",
     "__guard_check_icall_fptr",
     "__guard_dispatch_icall_fptr",
     "__guard_fids_count",
@@ -44,6 +44,7 @@
     "__report_gsfailure",
     "__security_check_cookie",
     "__security_cookie",
+    "__security_cookie_complement",
     "__security_init_cookie",
     "_guard_check_icall_nop",
     "_guard_dispatch_icall_nop",

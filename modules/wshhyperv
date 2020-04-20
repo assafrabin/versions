@@ -1,6 +1,6 @@
 {
   "symbols": [
-    "??_C@_1M@MDNOHNHK@?$AAV?$AAm?$AAb?$AAu?$AAs?$AA?$AA@",
+    "??_C@_1M@MDNOHNHK@?$AAV?$AAm?$AAb?$AAu?$AAs@",
     "HV_GUID_BROADCAST",
     "HV_GUID_LOOPBACK",
     "HV_GUID_ZERO",
@@ -29,10 +29,10 @@
     "WSHStringToAddress",
     "Winsock2Protocols",
     "_DllMainCRTStartupForGS",
-    "__IMPORT_DESCRIPTOR_api-ms-win-core-com-l1-1-1",
+    "__IMPORT_DESCRIPTOR_api-ms-win-core-com-l1-1-0",
     "__IMPORT_DESCRIPTOR_ntdll",
     "__NULL_IMPORT_DESCRIPTOR",
-    "__dynamic_value_reloc_table",
+    "__enclave_config",
     "__guard_check_icall_fptr",
     "__guard_dispatch_icall_fptr",
     "__guard_fids_count",
@@ -63,8 +63,9 @@
     "_guard_check_icall_nop",
     "_guard_dispatch_icall_nop",
     "_load_config_used",
+    "memmove",
     "memset",
-    "\u007fapi-ms-win-core-com-l1-1-1_NULL_THUNK_DATA",
+    "\u007fapi-ms-win-core-com-l1-1-0_NULL_THUNK_DATA",
     "\u007fntdll_NULL_THUNK_DATA"
   ],
   "hash": "TODO"

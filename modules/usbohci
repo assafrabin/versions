@@ -1,6 +1,6 @@
 {
   "symbols": [
-    "??_C@_1DE@PPNKLAJM@?$AAr?$AAe?$AAc?$AAo?$AAm?$AAm?$AAe?$AAn?$AAd?$AAe?$AAd?$AAC?$AAl?$AAo?$AAc?$AAk?$AAs?$AAP?$AAe?$AAr?$AAF?$AAr?$AAa?$AAm?$AAe?$AA?$AA@FNODOBFM@",
+    "??_C@_1DE@PPNKLAJM@?$AAr?$AAe?$AAc?$AAo?$AAm?$AAm?$AAe?$AAn?$AAd?$AAe?$AAd?$AAC?$AAl?$AAo?$AAc@",
     "DriverEntry",
     "ExDefaultNonPagedPoolType",
     "GUID_IDLE_STATUS",
@@ -108,7 +108,6 @@
     "__IMPORT_DESCRIPTOR_USBPORT",
     "__IMPORT_DESCRIPTOR_ntoskrnl",
     "__NULL_IMPORT_DESCRIPTOR",
-    "__dynamic_value_reloc_table",
     "__guard_check_icall_fptr",
     "__guard_dispatch_icall_fptr",
     "__guard_fids_count",
@@ -126,6 +125,7 @@
     "__report_gsfailure",
     "__security_check_cookie",
     "__security_cookie",
+    "__security_cookie_complement",
     "__security_init_cookie",
     "__xmm@070606050504040303020201010000ff",
     "__xmm@0f0e0e0d0d0c0c0b0b0a0a0909080807",

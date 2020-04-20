@@ -1,8 +1,8 @@
 {
   "symbols": [
-    "??_C@_17BJDAGBPC@?$AA?0?$AA?7?$AA?$CC?$AA?$AA@",
-    "??_C@_17NBCEFMOG@?$AAS?$AAW?$AA?2?$AA?$AA@",
-    "??_C@_1CM@GJCAPIAN@?$AAS?$AAe?$AAL?$AAo?$AAa?$AAd?$AAD?$AAr?$AAi?$AAv?$AAe?$AAr?$AAP?$AAr?$AAi?$AAv?$AAi?$AAl?$AAe?$AAg?$AAe?$AA?$AA@",
+    "??_C@_17BJDAGBPC@?$AA?0?$AA?7?$AA?$CC@",
+    "??_C@_17NBCEFMOG@?$AAS?$AAW?$AA?2@",
+    "??_C@_1CM@GJCAPIAN@?$AAS?$AAe?$AAL?$AAo?$AAa?$AAd?$AAD?$AAr?$AAi?$AAv?$AAe?$AAr?$AAP?$AAr?$AAi@",
     "BUSID_SoftwareDeviceEnumerator",
     "DllMain",
     "EnablePrivilege",
@@ -33,11 +33,10 @@
     "__IMPORT_DESCRIPTOR_KERNEL32",
     "__IMPORT_DESCRIPTOR_SETUPAPI",
     "__IMPORT_DESCRIPTOR_USER32",
-    "__IMPORT_DESCRIPTOR_api-ms-win-core-com-l1-1-1",
+    "__IMPORT_DESCRIPTOR_api-ms-win-core-com-l1-1-0",
     "__IMPORT_DESCRIPTOR_msvcrt",
     "__NULL_IMPORT_DESCRIPTOR",
     "__dyn_tls_init_callback",
-    "__dynamic_value_reloc_table",
     "__guard_check_icall_fptr",
     "__guard_dispatch_icall_fptr",
     "__guard_fids_count",
@@ -127,7 +126,7 @@
     "\u007fKERNEL32_NULL_THUNK_DATA",
     "\u007fSETUPAPI_NULL_THUNK_DATA",
     "\u007fUSER32_NULL_THUNK_DATA",
-    "\u007fapi-ms-win-core-com-l1-1-1_NULL_THUNK_DATA",
+    "\u007fapi-ms-win-core-com-l1-1-0_NULL_THUNK_DATA",
     "\u007fmsvcrt_NULL_THUNK_DATA"
   ],
   "hash": "TODO"

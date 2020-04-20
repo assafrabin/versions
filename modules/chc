@@ -1,10 +1,10 @@
 {
   "symbols": [
     "??_7CHCP@@6B@",
-    "??_C@_01KMDKNFGN@?1?$AA@",
-    "??_C@_01NBENCBCI@?$CK?$AA@",
-    "??_C@_02GLHBANAM@?1?$DP?$AA@",
-    "??_C@_02MLMCGJHF@?$CFW?$AA@",
+    "??_C@_01KMDKNFGN@?1@",
+    "??_C@_01NBENCBCI@?$CK@",
+    "??_C@_02GLHBANAM@?1?$DP@",
+    "??_C@_02MLMCGJHF@?$CFW@",
     "??_ECHCP@@UEAAPEAXI@Z",
     "??_GCHCP@@UEAAPEAXI@Z",
     "?CHCP_cd@@3PEBVCLASS_DESCRIPTOR@@EB",
@@ -37,7 +37,6 @@
     "__NULL_IMPORT_DESCRIPTOR",
     "__defaultmatherr",
     "__dyn_tls_init_callback",
-    "__dynamic_value_reloc_table",
     "__guard_check_icall_fptr",
     "__guard_dispatch_icall_fptr",
     "__guard_fids_count",

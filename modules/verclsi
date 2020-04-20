@@ -1,10 +1,10 @@
 {
   "symbols": [
-    "??_C@_0BG@BDAPJIAD@ResolveDelayLoadedAPI?$AA@",
-    "??_C@_0BJ@ILPNKHOP@ResolveDelayLoadsFromDll?$AA@",
-    "??_C@_15BHOFONJE@?$AA?$CF?$AAX?$AA?$AA@",
-    "??_C@_1BK@DBDEIDLH@?$AAK?$AAE?$AAR?$AAN?$AAE?$AAL?$AA3?$AA2?$AA?4?$AAD?$AAL?$AAL?$AA?$AA@",
-    "??_C@_1EK@JANKHMBM@?$AAa?$AAp?$AAi?$AA?9?$AAm?$AAs?$AA?9?$AAw?$AAi?$AAn?$AA?9?$AAc?$AAo?$AAr?$AAe?$AA?9?$AAd?$AAe?$AAl?$AAa?$AAy?$AAl?$AAo?$AAa?$AAd?$AA?9?$AAl?$AA1?$AA?9?$AA1?$AA?9?$AA1@",
+    "??_C@_0BG@BDAPJIAD@ResolveDelayLoadedAPI@",
+    "??_C@_0BJ@ILPNKHOP@ResolveDelayLoadsFromDll@",
+    "??_C@_15BHOFONJE@?$AA?$CF?$AAX@",
+    "??_C@_1BK@DBDEIDLH@?$AAK?$AAE?$AAR?$AAN?$AAE?$AAL?$AA3?$AA2?$AA?4?$AAD?$AAL?$AAL@",
+    "??_C@_1EK@JANKHMBM@?$AAa?$AAp?$AAi?$AA?9?$AAm?$AAs?$AA?9?$AAw?$AAi?$AAn?$AA?9?$AAc?$AAo?$AAr?$AAe@",
     "?FindThisCharacter@@YAPEAGPEAGGH@Z",
     "?GetGUIDFromString@@YAPEAGPEAU_GUID@@PEAG@Z",
     "?__CxxUnhandledExceptionFilter@@YAJPEAU_EXCEPTION_POINTERS@@@Z",
@@ -31,7 +31,6 @@
     "__defaultmatherr",
     "__delayLoadHelper2",
     "__dyn_tls_init_callback",
-    "__dynamic_value_reloc_table",
     "__guard_check_icall_fptr",
     "__guard_dispatch_icall_fptr",
     "__guard_fids_count",

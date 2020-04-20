@@ -1,8 +1,8 @@
 {
   "symbols": [
-    "??_C@_04BAJDEDPD@Root?$AA@",
-    "??_C@_06JIODDOFH@System?$AA@",
-    "??_C@_0BA@LLFEHIFJ@ROOT?2CIRClass?$AA?$AA?$AA@",
+    "??_C@_04BAJDEDPD@Root@",
+    "??_C@_06JIODDOFH@System@",
+    "??_C@_0BA@LLFEHIFJ@ROOT?2CIRClass?$AA?$AA@",
     "DllMain",
     "FindClassDevice",
     "IRCoInstaller",
@@ -22,7 +22,6 @@
     "__IMPORT_DESCRIPTOR_msvcrt",
     "__NULL_IMPORT_DESCRIPTOR",
     "__dyn_tls_init_callback",
-    "__dynamic_value_reloc_table",
     "__guard_check_icall_fptr",
     "__guard_dispatch_icall_fptr",
     "__guard_fids_count",

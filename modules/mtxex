@@ -1,7 +1,7 @@
 {
   "symbols": [
-    "??_C@_0BC@JDLGBILA@DllGetClassObject?$AA@",
-    "??_C@_1BI@NMLGLHFF@?$AAc?$AAo?$AAm?$AAs?$AAv?$AAc?$AAs?$AA?4?$AAd?$AAl?$AAl?$AA?$AA@",
+    "??_C@_0BC@JDLGBILA@DllGetClassObject@",
+    "??_C@_1BI@NMLGLHFF@?$AAc?$AAo?$AAm?$AAs?$AAv?$AAc?$AAs?$AA?4?$AAd?$AAl?$AAl@",
     "?DllGetClassObject@@YAJAEBU_GUID@@0PEAPEAX@Z",
     "?g_hComsvcs@@3PEAUHINSTANCE__@@EA",
     "?g_pfnDllGetClassObject@@3P6AJAEBU_GUID@@0PEAPEAX@ZEA",
@@ -17,7 +17,6 @@
     "__IMPORT_DESCRIPTOR_msvcrt",
     "__NULL_IMPORT_DESCRIPTOR",
     "__dyn_tls_init_callback",
-    "__dynamic_value_reloc_table",
     "__guard_check_icall_fptr",
     "__guard_dispatch_icall_fptr",
     "__guard_fids_count",

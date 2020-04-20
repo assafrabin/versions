@@ -1,9 +1,9 @@
 {
   "symbols": [
-    "??_C@_0CF@PDLHDKPP@RPC?3?5RegisterEventSource?5failed?3@",
-    "??_C@_0DK@BHPDIGAM@RPC?3?5?5Using?5rpcns4?4dll?4?5?5The?5dll@",
-    "??_C@_0EK@BDODICAJ@RPC?3?5ReportEventW?5failed?3?5?$CFX?4?5Ca@",
-    "??_C@_1M@LAJPLLKN@?$AAR?$AAp?$AAc?$AAN?$AAs?$AA?$AA@",
+    "??_C@_0CF@PDLHDKPP@RPC?3?5RegisterEventSource?5failed@",
+    "??_C@_0DK@BHPDIGAM@RPC?3?5?5Using?5rpcns4?4dll?4?5?5The?5dl@",
+    "??_C@_0EK@BDODICAJ@RPC?3?5ReportEventW?5failed?3?5?$CFX?4?5C@",
+    "??_C@_1M@LAJPLLKN@?$AAR?$AAp?$AAc?$AAN?$AAs@",
     "DeprecatedFunctionalityUseError",
     "I_RpcNsGetBuffer",
     "I_RpcNsNegotiateTransferSyntax",
@@ -75,7 +75,6 @@
     "__IMPORT_DESCRIPTOR_KERNEL32",
     "__IMPORT_DESCRIPTOR_ntdll",
     "__NULL_IMPORT_DESCRIPTOR",
-    "__dynamic_value_reloc_table",
     "__guard_check_icall_fptr",
     "__guard_dispatch_icall_fptr",
     "__guard_fids_count",

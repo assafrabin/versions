@@ -2,6 +2,7 @@
   "symbols": [
     "AT_Initialization",
     "BitBlt",
+    "ClipRect",
     "DisplayCharacter",
     "FontData",
     "HalPrivateDispatchTable",
@@ -33,7 +34,6 @@
     "__GSHandlerCheckCommon",
     "__IMPORT_DESCRIPTOR_ntoskrnl",
     "__NULL_IMPORT_DESCRIPTOR",
-    "__dynamic_value_reloc_table",
     "__guard_check_icall_fptr",
     "__guard_dispatch_icall_fptr",
     "__guard_fids_count",
@@ -49,6 +49,7 @@
     "__report_gsfailure",
     "__security_check_cookie",
     "__security_cookie",
+    "__security_cookie_complement",
     "__security_init_cookie",
     "_guard_check_icall_nop",
     "_guard_dispatch_icall_nop",

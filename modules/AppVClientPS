@@ -1,7 +1,7 @@
 {
   "symbols": [
-    "??_C@_0BF@JHFMMIFB@IAppVClientEventSink?$AA@",
-    "??_C@_0M@DAJACGMC@IAppVClient?$AA@",
+    "??_C@_0BF@JHFMMIFB@IAppVClientEventSink@",
+    "??_C@_0M@DAJACGMC@IAppVClient@",
     "?_OptionsStorage@?1??__local_stdio_printf_options@@9@4_KA",
     "?_OptionsStorage@?1??__local_stdio_scanf_options@@9@4_KA",
     "?__scrt_initialize_type_info@@YAXXZ",
@@ -40,7 +40,6 @@
     "IUnknown_AddRef_Proxy",
     "IUnknown_QueryInterface_Proxy",
     "IUnknown_Release_Proxy",
-    "IsProcessorFeaturePresent",
     "LPSAFEARRAY_UserFree",
     "LPSAFEARRAY_UserFree64",
     "LPSAFEARRAY_UserMarshal",
@@ -85,6 +84,7 @@
     "__IMPORT_DESCRIPTOR_RPCRT4",
     "__IMPORT_DESCRIPTOR_api-ms-win-crt-private-l1-1-0",
     "__IMPORT_DESCRIPTOR_api-ms-win-crt-runtime-l1-1-0",
+    "__IMPORT_DESCRIPTOR_api-ms-win-crt-string-l1-1-0",
     "__IMPORT_DESCRIPTOR_ole32",
     "__NULL_IMPORT_DESCRIPTOR",
     "__PLEASE_LINK_WITH_legacy_stdio_wide_specifiers.lib",
@@ -95,6 +95,7 @@
     "__acrt_uninitialize_critical",
     "__crt_debugger_hook",
     "__dyn_tls_init_callback",
+    "__enclave_config",
     "__favor",
     "__guard_check_icall_fptr",
     "__guard_dispatch_icall_fptr",
@@ -195,7 +196,6 @@
     "__imp__o__initialize_narrow_environment",
     "__imp__o__initialize_onexit_table",
     "__imp__o__seh_filter_dll",
-    "__imp__o_memset",
     "__imp__seh_filter_dll",
     "__imp_memcmp",
     "__imp_memset",
@@ -281,7 +281,6 @@
     "_o__initialize_narrow_environment",
     "_o__initialize_onexit_table",
     "_o__seh_filter_dll",
-    "_o_memset",
     "_pDefaultRawDllMain",
     "_pRawDllMain",
     "_seh_filter_dll",
@@ -295,6 +294,7 @@
     "\u007fRPCRT4_NULL_THUNK_DATA",
     "\u007fapi-ms-win-crt-private-l1-1-0_NULL_THUNK_DATA",
     "\u007fapi-ms-win-crt-runtime-l1-1-0_NULL_THUNK_DATA",
+    "\u007fapi-ms-win-crt-string-l1-1-0_NULL_THUNK_DATA",
     "\u007fole32_NULL_THUNK_DATA"
   ],
   "hash": "TODO"

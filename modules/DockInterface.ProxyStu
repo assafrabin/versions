@@ -1,7 +1,7 @@
 {
   "symbols": [
-    "??_C@_0BI@ECAADHMK@IDockConnectionListener?$AA@",
-    "??_C@_0P@EPIJJGKB@IDockInterface?$AA@",
+    "??_C@_0BI@ECAADHMK@IDockConnectionListener@",
+    "??_C@_0P@EPIJJGKB@IDockInterface@",
     "CLSID_PSFactoryBuffer",
     "CStdStubBuffer_AddRef",
     "CStdStubBuffer_Connect",
@@ -46,7 +46,6 @@
     "__IMPORT_DESCRIPTOR_ole32",
     "__NULL_IMPORT_DESCRIPTOR",
     "__dyn_tls_init_callback",
-    "__dynamic_value_reloc_table",
     "__guard_check_icall_fptr",
     "__guard_dispatch_icall_fptr",
     "__guard_fids_count",

@@ -1,8 +1,8 @@
 {
   "symbols": [
-    "??_C@_0BE@MDNGANML@EnumDisplayDevicesW?$AA@",
-    "??_C@_1BA@DMMGCODP@?$AAD?$AAi?$AAs?$AAp?$AAl?$AAa?$AAy?$AA?$AA@",
-    "??_C@_1BG@OILDLIOJ@?$AAu?$AAs?$AAe?$AAr?$AA3?$AA2?$AA?4?$AAd?$AAl?$AAl?$AA?$AA@",
+    "??_C@_0BE@MDNGANML@EnumDisplayDevicesW@",
+    "??_C@_1BA@DMMGCODP@?$AAD?$AAi?$AAs?$AAp?$AAl?$AAa?$AAy@",
+    "??_C@_1BG@OILDLIOJ@?$AAu?$AAs?$AAe?$AAr?$AA3?$AA2?$AA?4?$AAd?$AAl?$AAl@",
     "DCIBeginAccess",
     "DCICloseProvider",
     "DCICreateOffscreen",
@@ -41,7 +41,6 @@
     "__IMPORT_DESCRIPTOR_ntdll",
     "__NULL_IMPORT_DESCRIPTOR",
     "__dyn_tls_init_callback",
-    "__dynamic_value_reloc_table",
     "__guard_check_icall_fptr",
     "__guard_dispatch_icall_fptr",
     "__guard_fids_count",

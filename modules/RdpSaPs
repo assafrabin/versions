@@ -1,7 +1,7 @@
 {
   "symbols": [
-    "??_C@_0BB@NBENEGEK@IRdpSessionAgent?$AA@",
-    "??_C@_0BG@EJLAKJO@IRdpSessionAgentProxy?$AA@",
+    "??_C@_0BB@NBENEGEK@IRdpSessionAgent@",
+    "??_C@_0BG@EJLAKJO@IRdpSessionAgentProxy@",
     "BSTR_UserFree",
     "BSTR_UserFree64",
     "BSTR_UserMarshal",
@@ -37,6 +37,7 @@
     "ObjectStublessClient4",
     "ObjectStublessClient5",
     "ObjectStublessClient6",
+    "ObjectStublessClient7",
     "_CRT_INIT",
     "_DllMainCRTStartup",
     "_FindPESection",
@@ -55,7 +56,6 @@
     "__IMPORT_DESCRIPTOR_msvcrt",
     "__NULL_IMPORT_DESCRIPTOR",
     "__dyn_tls_init_callback",
-    "__dynamic_value_reloc_table",
     "__guard_check_icall_fptr",
     "__guard_dispatch_icall_fptr",
     "__guard_fids_count",
@@ -102,6 +102,7 @@
     "__imp_ObjectStublessClient4",
     "__imp_ObjectStublessClient5",
     "__imp_ObjectStublessClient6",
+    "__imp_ObjectStublessClient7",
     "__imp_QueryPerformanceCounter",
     "__imp_RtlCaptureContext",
     "__imp_RtlLookupFunctionEntry",

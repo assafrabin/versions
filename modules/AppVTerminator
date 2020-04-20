@@ -7,7 +7,6 @@
     "?__type_info_root_node@@3U__type_info_node@@A",
     "DllMain",
     "IllBeBack",
-    "IsProcessorFeaturePresent",
     "_DllMainCRTStartup",
     "_RTC_Initialize",
     "_RTC_Terminate",
@@ -15,6 +14,7 @@
     "__IMPORT_DESCRIPTOR_KERNEL32",
     "__IMPORT_DESCRIPTOR_api-ms-win-crt-private-l1-1-0",
     "__IMPORT_DESCRIPTOR_api-ms-win-crt-runtime-l1-1-0",
+    "__IMPORT_DESCRIPTOR_api-ms-win-crt-string-l1-1-0",
     "__NULL_IMPORT_DESCRIPTOR",
     "__PLEASE_LINK_WITH_legacy_stdio_wide_specifiers.lib",
     "__acrt_initialize",
@@ -24,6 +24,7 @@
     "__acrt_uninitialize_critical",
     "__crt_debugger_hook",
     "__dyn_tls_init_callback",
+    "__enclave_config",
     "__favor",
     "__guard_check_icall_fptr",
     "__guard_dispatch_icall_fptr",
@@ -64,7 +65,6 @@
     "__imp__o__initialize_narrow_environment",
     "__imp__o__initialize_onexit_table",
     "__imp__o__seh_filter_dll",
-    "__imp__o_memset",
     "__imp__seh_filter_dll",
     "__imp_memset",
     "__isa_available",
@@ -144,14 +144,14 @@
     "_o__initialize_narrow_environment",
     "_o__initialize_onexit_table",
     "_o__seh_filter_dll",
-    "_o_memset",
     "_pDefaultRawDllMain",
     "_pRawDllMain",
     "_seh_filter_dll",
     "memset",
     "\u007fKERNEL32_NULL_THUNK_DATA",
     "\u007fapi-ms-win-crt-private-l1-1-0_NULL_THUNK_DATA",
-    "\u007fapi-ms-win-crt-runtime-l1-1-0_NULL_THUNK_DATA"
+    "\u007fapi-ms-win-crt-runtime-l1-1-0_NULL_THUNK_DATA",
+    "\u007fapi-ms-win-crt-string-l1-1-0_NULL_THUNK_DATA"
   ],
   "hash": "TODO"
 }

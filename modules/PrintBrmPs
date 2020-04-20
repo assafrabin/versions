@@ -1,10 +1,10 @@
 {
   "symbols": [
-    "??_C@_0BA@NKFALHCB@AsyncIBrmEngine?$AA@",
-    "??_C@_0L@CFLLLODF@IBrmEngine?$AA@",
-    "??_C@_0O@LAPGMEGH@INotifyFinish?$AA@",
-    "??_C@_0O@NEHHJHDC@IBrmGetConfig?$AA@",
-    "??_C@_0O@PNPMEJOB@INotifyUpdate?$AA@",
+    "??_C@_0BA@NKFALHCB@AsyncIBrmEngine@",
+    "??_C@_0L@CFLLLODF@IBrmEngine@",
+    "??_C@_0O@LAPGMEGH@INotifyFinish@",
+    "??_C@_0O@NEHHJHDC@IBrmGetConfig@",
+    "??_C@_0O@PNPMEJOB@INotifyUpdate@",
     "BSTR_UserFree",
     "BSTR_UserFree64",
     "BSTR_UserMarshal",
@@ -73,7 +73,6 @@
     "__IMPORT_DESCRIPTOR_msvcrt",
     "__NULL_IMPORT_DESCRIPTOR",
     "__dyn_tls_init_callback",
-    "__dynamic_value_reloc_table",
     "__guard_check_icall_fptr",
     "__guard_dispatch_icall_fptr",
     "__guard_fids_count",

@@ -1,6 +1,6 @@
 {
   "symbols": [
-    "??_C@_0EI@MNBJJOFF@__x_Windows_CGaming_CGameBar_CPr@",
+    "??_C@_0EI@MNBJJOFF@__x_Windows_CGaming_CGameBar_CP@",
     "CLSID_PSFactoryBuffer",
     "CStdStubBuffer2_Connect",
     "CStdStubBuffer2_CountRefs",
@@ -55,7 +55,6 @@
     "___x_Windows_CGaming_CGameBar_CPresenceServer_CInternal_CIPresenceWriterProxyVtbl",
     "___x_Windows_CGaming_CGameBar_CPresenceServer_CInternal_CIPresenceWriterStubVtbl",
     "__dyn_tls_init_callback",
-    "__dynamic_value_reloc_table",
     "__guard_check_icall_fptr",
     "__guard_dispatch_icall_fptr",
     "__guard_fids_count",

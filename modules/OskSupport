@@ -1,6 +1,6 @@
 {
   "symbols": [
-    "??_C@_1BK@BOOICEGP@?$AAO?$AAS?$AAK?$AAM?$AAa?$AAi?$AAn?$AAC?$AAl?$AAa?$AAs?$AAs?$AA?$AA@",
+    "??_C@_1BK@BOOICEGP@?$AAO?$AAS?$AAK?$AAM?$AAa?$AAi?$AAn?$AAC?$AAl?$AAa?$AAs?$AAs@",
     "?InitializeOSKSupport@@YAJXZ",
     "?OSKShellHookProc@COskSupport@@CA_JH_K_J@Z",
     "?UninitializeOSKSupport@@YAXXZ",
@@ -20,7 +20,6 @@
     "__IMPORT_DESCRIPTOR_msvcrt",
     "__NULL_IMPORT_DESCRIPTOR",
     "__dyn_tls_init_callback",
-    "__dynamic_value_reloc_table",
     "__guard_check_icall_fptr",
     "__guard_dispatch_icall_fptr",
     "__guard_fids_count",

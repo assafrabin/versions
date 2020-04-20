@@ -1,6 +1,6 @@
 {
   "symbols": [
-    "??_C@_0BB@BCIKMIKB@CHANGR?5DRM?91004X?$AA@NNGAKEGL@",
+    "??_C@_0BB@BCIKMIKB@CHANGR?5DRM?91004X@",
     "ChangerAdditionalExtensionSize",
     "ChangerError",
     "ChangerExchangeMedium",
@@ -16,6 +16,7 @@
     "ChangerReinitializeUnit",
     "ChangerSetAccess",
     "ChangerSetPosition",
+    "DriverEntry",
     "ElementOutOfRange",
     "GsDriverEntry",
     "MapExceptionCodes",
@@ -25,7 +26,6 @@
     "__IMPORT_DESCRIPTOR_MCD",
     "__IMPORT_DESCRIPTOR_ntoskrnl",
     "__NULL_IMPORT_DESCRIPTOR",
-    "__dynamic_value_reloc_table",
     "__guard_check_icall_fptr",
     "__guard_dispatch_icall_fptr",
     "__guard_fids_count",
@@ -43,6 +43,7 @@
     "__report_gsfailure",
     "__security_check_cookie",
     "__security_cookie",
+    "__security_cookie_complement",
     "__security_init_cookie",
     "_guard_check_icall_nop",
     "_guard_dispatch_icall_nop",

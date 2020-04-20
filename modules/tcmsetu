@@ -1,8 +1,8 @@
 {
   "symbols": [
-    "??_C@_15MIDIJOL@?$AA?1?$AAd?$AA?$AA@",
-    "??_C@_19HEPLDNLP@?$AA?$CF?$AAs?$AA?$CF?$AAd?$AA?$AA@",
-    "??_C@_1DC@MEJJOACF@?$AAT?$AAa?$AAp?$AAi?$AAs?$AAr?$AAv?$AAP?$AAr?$AAo?$AAv?$AAi?$AAd?$AAe?$AAr?$AAL?$AAi?$AAs?$AAt?$AAM?$AAu?$AAt?$AAe?$AAx?$AA?$AA@",
+    "??_C@_15MIDIJOL@?$AA?1?$AAd@",
+    "??_C@_19HEPLDNLP@?$AA?$CF?$AAs?$AA?$CF?$AAd@",
+    "??_C@_1DC@MEJJOACF@?$AAT?$AAa?$AAp?$AAi?$AAs?$AAr?$AAv?$AAP?$AAr?$AAo?$AAv?$AAi?$AAd?$AAe?$AAr@",
     "?__CxxUnhandledExceptionFilter@@YAJPEAU_EXCEPTION_POINTERS@@@Z",
     "DoClient",
     "ErrorStr",
@@ -33,7 +33,6 @@
     "__NULL_IMPORT_DESCRIPTOR",
     "__defaultmatherr",
     "__dyn_tls_init_callback",
-    "__dynamic_value_reloc_table",
     "__guard_check_icall_fptr",
     "__guard_dispatch_icall_fptr",
     "__guard_fids_count",

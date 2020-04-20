@@ -1,8 +1,8 @@
 {
   "symbols": [
-    "??_C@_0BD@LJLKJBEL@ISyncSessionObject?$AA@",
-    "??_C@_0BF@CONOFFKL@ISyncSessionCallback?$AA@",
-    "??_C@_0BF@EHLCOMDB@ISyncProviderControl?$AA@",
+    "??_C@_0BD@LJLKJBEL@ISyncSessionObject@",
+    "??_C@_0BF@CONOFFKL@ISyncSessionCallback@",
+    "??_C@_0BF@EHLCOMDB@ISyncProviderControl@",
     "CStdStubBuffer_AddRef",
     "CStdStubBuffer_Connect",
     "CStdStubBuffer_CountRefs",
@@ -48,7 +48,6 @@
     "__IMPORT_DESCRIPTOR_msvcrt",
     "__NULL_IMPORT_DESCRIPTOR",
     "__dyn_tls_init_callback",
-    "__dynamic_value_reloc_table",
     "__guard_check_icall_fptr",
     "__guard_dispatch_icall_fptr",
     "__guard_fids_count",

@@ -7,7 +7,6 @@
     "_DllMainCRTStartupForGS",
     "__IMPORT_DESCRIPTOR_KERNEL32",
     "__NULL_IMPORT_DESCRIPTOR",
-    "__dynamic_value_reloc_table",
     "__guard_check_icall_fptr",
     "__guard_dispatch_icall_fptr",
     "__guard_fids_count",

@@ -1,9 +1,10 @@
 {
   "symbols": [
-    "??_C@_15NHOPMBJP@?$AA?2?$AA3?$AA?$AA@",
-    "??_C@_19BDAJEHDN@?$AAo?$AAp?$AAe?$AAn?$AA?$AA@",
+    "??_C@_15NHOPMBJP@?$AA?2?$AA3@",
+    "??_C@_19BDAJEHDN@?$AAo?$AAp?$AAe?$AAn@",
     "?CPlApplet@@YAJPEAUHWND__@@I_J1@Z",
     "?HrOpenConnectionsFolder@@YAJXZ",
+    "?StringCchCatW@@YAJPEAG_KPEBG@Z",
     "DllMain",
     "_CRT_INIT",
     "_DllMainCRTStartup",
@@ -23,7 +24,6 @@
     "__IMPORT_DESCRIPTOR_ole32",
     "__NULL_IMPORT_DESCRIPTOR",
     "__dyn_tls_init_callback",
-    "__dynamic_value_reloc_table",
     "__guard_check_icall_fptr",
     "__guard_dispatch_icall_fptr",
     "__guard_fids_count",

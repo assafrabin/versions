@@ -1,8 +1,8 @@
 {
   "symbols": [
-    "??_C@_0BA@JDAKLIBI@iscsicpl?4dll?0?00?$AA@",
-    "??_C@_11LOCGONAA@?$AA?$AA@",
-    "??_C@_17LDADEION@?$AAI?$AAM?$AAE?$AA?$AA@",
+    "??_C@_0BA@JDAKLIBI@iscsicpl?4dll?0?00@",
+    "??_C@_11LOCGONAA@@",
+    "??_C@_17LDADEION@?$AAI?$AAM?$AAE@",
     "?__CxxUnhandledExceptionFilter@@YAJPEAU_EXCEPTION_POINTERS@@@Z",
     "Mirror_EnumUILanguagesProc",
     "RtlpImageNtHeader",
@@ -24,7 +24,6 @@
     "__NULL_IMPORT_DESCRIPTOR",
     "__defaultmatherr",
     "__dyn_tls_init_callback",
-    "__dynamic_value_reloc_table",
     "__guard_check_icall_fptr",
     "__guard_dispatch_icall_fptr",
     "__guard_fids_count",
