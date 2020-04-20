@@ -1,0 +1,12 @@
+{
+  "symbols": [
+    "FujitsuOyayubiControl",
+    "KbdLayerDescriptor",
+    "KbdNlsLayerDescriptor",
+    "__IMPORT_DESCRIPTOR_win32u",
+    "__NULL_IMPORT_DESCRIPTOR",
+    "__imp_NtUserCallTwoParam",
+    "\u007fwin32u_NULL_THUNK_DATA"
+  ],
+  "hash": "TODO"
+}

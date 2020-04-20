@@ -1,0 +1,19 @@
+{
+  "symbols": [
+    "__dynamic_value_reloc_table",
+    "__guard_check_icall_fptr",
+    "__guard_dispatch_icall_fptr",
+    "__guard_fids_count",
+    "__guard_fids_table",
+    "__guard_flags",
+    "__guard_iat_count",
+    "__guard_iat_table",
+    "__guard_longjmp_count",
+    "__guard_longjmp_table",
+    "__security_cookie",
+    "_guard_check_icall_nop",
+    "_guard_dispatch_icall_nop",
+    "_load_config_used"
+  ],
+  "hash": "TODO"
+}

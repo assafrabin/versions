@@ -1,0 +1,10 @@
+{
+  "symbols": [
+    "KbdLayerDescriptor",
+    "KbdNlsLayerDescriptor",
+    "KbdNlsTablesNEC98",
+    "KbdTablesNec",
+    "ausMouseVKey98"
+  ],
+  "hash": "TODO"
+}
